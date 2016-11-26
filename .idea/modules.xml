@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Remoting.iml" filepath="$PROJECT_DIR$/Remoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoting-client/remoting-client.iml" filepath="$PROJECT_DIR$/remoting-client/remoting-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoting-server/remoting-server.iml" filepath="$PROJECT_DIR$/remoting-server/remoting-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoting-test/remoting-test.iml" filepath="$PROJECT_DIR$/remoting-test/remoting-test.iml" />
+    </modules>
+  </component>
+</project>
